@@ -1,11 +1,11 @@
-﻿namespace com.faith.AI
+﻿namespace com.faith.ai
 {
     using System.Collections;
     using System.Collections.Generic;
 
     using UnityEngine;
 
-    using com.faith.Gameplay;
+    using com.faith.gameplay;
 
     [RequireComponent(typeof(OnDemandPrefab))]
     public class NPCRoamingManager : MonoBehaviour
