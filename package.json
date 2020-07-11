@@ -6,7 +6,6 @@
     "author": "Muhammad Tashfiqul Bari",
     "description": "Gameplay AI",
     "dependencies":{
-        "com.faith.gameplay" : "https://github.com/tashfiq103/com.faith.gameplay.git"
     },
     "repository":{
         "type":"git",
