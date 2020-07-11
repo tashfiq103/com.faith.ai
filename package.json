@@ -1,0 +1,16 @@
+{
+    "name" : "com.faith.ai",
+    "displayName": "FAITH AI_Library",
+    "version" : "0.1.0",
+    "unity": "2019.4",
+    "author": "Muhammad Tashfiqul Bari",
+    "description": "Gameplay AI",
+    "dependencies":{
+        "com.faith.gameplay" : "https://github.com/tashfiq103/com.faith.gameplay.git"
+    },
+    "repository":{
+        "type":"git",
+        "url": "https://github.com/tashfiq103/com.faith.ai"
+    }
+    
+}
