@@ -1,3 +1,15 @@
-﻿{
-	"name": "com.faith.ai"
+{
+    "name": "com.faith.ai",
+    "references": [
+        "GUID:32e3290345f52854ab32b3d49c0b6ef7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
